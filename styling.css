@@ -1,0 +1,75 @@
+.core-values-list {
+    text-align: justify;
+}
+
+.advantages-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.advantages-list li {
+    list-style: decimal; /* Use decimal numbering */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
+
+.objectives-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.objectives-list li {
+    list-style: disc; /* Use disc bullets */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
+
+.thematic-areas-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.thematic-areas-list li {
+    list-style: disc; /* Use disc bullets */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
+
+.sub-list {
+    list-style: circle; /* Use circle bullets for the sub-list */
+    margin-top: 0.5em; /* Adjust the spacing between sub-list items */
+    padding-left: 1.5em; /* Add some left padding for sub-list items */
+}
+
+.community-projects-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.community-projects-list li {
+    list-style: disc; /* Use disc bullets */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
+
+.sub-list {
+    list-style: circle; /* Use circle bullets for the sub-list */
+    margin-top: 0.5em; /* Adjust the spacing between sub-list items */
+    padding-left: 1.5em; /* Add some left padding for sub-list items */
+}
+
+.hlmi-experience-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.hlmi-experience-list li {
+    list-style: disc; /* Use disc bullets */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
+
+.statement-of-faith-list {
+    text-align: justify;
+    padding-left: 1.5em; /* Add some left padding for better readability */
+}
+
+.statement-of-faith-list li {
+    list-style: decimal; /* Use decimal numbering */
+    margin-bottom: 0.5em; /* Adjust the spacing between list items */
+}
